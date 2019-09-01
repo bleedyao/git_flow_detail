@@ -1,3 +1,5 @@
+# release version 0.0.1
+
 # git flow 是什么？
 
 git flow 是由 Vincent Driessen 创建的 git 的分支模型。它吸引了很多关注，因为它非常适合协作和扩展开发团队。
