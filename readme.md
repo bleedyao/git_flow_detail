@@ -16,3 +16,5 @@ ps: 本质上，git flow 是 git 的一种扩展，轻松的分离了开发分�
 ## case 1: 在已有的项目中集成 git flow
 ## case 2: 多人并行开发
 ## case 3: 多人同时开发同一个分支
+* publish 向远程创建新的分支
+* trach 拉取远程分支
